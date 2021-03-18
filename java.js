@@ -7,5 +7,5 @@ state: "oregon";
 favFood: "taco soup";
 }
 let favriteSubjects = ['world cultures', 'robotics', 'P.E ']
-let family = [{ name: 'Gage' }, { name: 'Conner' }]
+let friends = [{ name: 'Gage' }, { name: 'Conner' }]
 
